@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784396841398",
+    "project_id": "jindo-7582b",
+    "storage_bucket": "jindo-7582b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784396841398:android:60a8a57d63118d91fd9117",
+        "android_client_info": {
+          "package_name": "com.studio.jindohadiah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784396841398-q8cfst9fuvo0gtgmpr4q9nc3ugeajlfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3obGF3gbSFGEOI7T9rpjMZoRV7qeMp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784396841398-q8cfst9fuvo0gtgmpr4q9nc3ugeajlfd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
